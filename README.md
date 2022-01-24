@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksushiroll
 - 👀 I’m interested in video games and virtual reality
-- 🌱 I’m currently learning strengthening my coding specifically in python
+- 🌱 I’m currently a computer science major at WWU
 - 📫 How to reach me - instagram @ksushiroll
 
 <!---
