@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ksusha
-- 👀 I’m interested in video games and virtual reality
 - 🌱 I’m currently a computer science major at WWU
 - 📫 How to reach me - instagram @ksushiroll
 
